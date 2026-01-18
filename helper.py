@@ -12,8 +12,8 @@ import nltk
 from nltk.corpus import wordnet
 
 # Download the WordNet database
-#nltk.download('wordnet')
-#nltk.download('omw-1.4')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 
 MODEL = f"cardiffnlp/twitter-roberta-base-sentiment" #model trained on twitter data
 tokenizer = AutoTokenizer.from_pretrained(MODEL)
