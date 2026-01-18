@@ -8,5 +8,4 @@ scipy
 torch
 nltk
 streamlit
-pandas
-random
+
