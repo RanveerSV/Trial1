@@ -1,7 +1,7 @@
 pandas
 re
 numpy
-sklearn
+scikit-learn
 matplotlib
 transformers
 scipy
