@@ -6,7 +6,6 @@ matplotlib
 transformers
 scipy
 torch
-os
 nltk
 streamlit
 pandas
