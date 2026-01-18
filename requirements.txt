@@ -1,0 +1,13 @@
+pandas
+re
+numpy
+sklearn
+matplotlib
+transformers
+scipy
+torch
+os
+nltk
+streamlit
+pandas
+random
