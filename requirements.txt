@@ -1,5 +1,5 @@
 pandas
-re
+regex
 numpy
 scikit-learn
 matplotlib
